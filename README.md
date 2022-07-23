@@ -1,2 +1,2 @@
-# dio-primeiro-repositorio
-Repositório para entrega como primeiro Projeto
+# DIO: Primeiro Repositório
+Repositório para entrega como primeiro Projeto.
